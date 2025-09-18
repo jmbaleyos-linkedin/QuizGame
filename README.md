@@ -92,6 +92,9 @@ Your current score: 1/2
 * Separation of Concerns → API logic, data handling, modeling, and gameplay are kept in separate files.
 
 🔮 Future Improvements
+* Add difficulty levels.
+* Selectign categories.
+* Allowing the user to choose how many questions to pull.
 * Add a GUI version (Tkinter or PyQt).
 * Allow players to select category/difficulty at the start.
 * Implement leaderboards (save player scores in a file or DB).
